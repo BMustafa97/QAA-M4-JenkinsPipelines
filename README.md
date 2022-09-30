@@ -9,3 +9,4 @@ All of our build commands are controlled within this Jenkinsfile
 Pipelines allow us to easily and quickly see a visual representation of our build, as we can see how far along the pipe it went before crashing / succeeding 
 
 `touch Jenkinsfile`
+`some command`
