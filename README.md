@@ -10,3 +10,4 @@ Pipelines allow us to easily and quickly see a visual representation of our buil
 
 `touch Jenkinsfile`
 `some command`
+`another one`
